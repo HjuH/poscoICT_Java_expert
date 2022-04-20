@@ -1,6 +1,6 @@
-package scoreTest_ds;
+package Data_Structure.score;
 
-public class ScoreTest {
+public class ScoreTest01 {
 	public static void main(String[] args) {
         double[][] score = {{3.3, 3.4}, {3.5, 3.6}, {3.7, 4.0}, {4.1, 4.2}};
         double sum = 0;

@@ -1,4 +1,4 @@
-package checkString;
+package Java.checkString;
 
 import java.util.Scanner;
 

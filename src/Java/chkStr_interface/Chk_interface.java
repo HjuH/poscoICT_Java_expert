@@ -1,4 +1,4 @@
-package chkStr_interface;
+package Java.chkStr_interface;
 
 import java.util.Scanner;
 

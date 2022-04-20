@@ -1,4 +1,4 @@
-package condStatement_ds;
+package Data_Structure.condStatement_ds;
 
 import java.util.Scanner;
 

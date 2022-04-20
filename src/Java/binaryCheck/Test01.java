@@ -1,4 +1,4 @@
-package binaryCheck;
+package Java.binaryCheck;
 
 import java.util.Scanner;
 

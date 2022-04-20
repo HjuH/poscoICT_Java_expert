@@ -1,4 +1,4 @@
-package chkStr_inherit;
+package Java.chkStr_inherit;
 
 import java.util.Scanner;
 

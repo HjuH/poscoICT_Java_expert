@@ -1,4 +1,4 @@
-package operator_ds;
+package Data_Structure.operator_ds;
 
 import java.util.Scanner;
 
